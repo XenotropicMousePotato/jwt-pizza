@@ -3,6 +3,9 @@ name: CI Pipeline
 
 
 on:
-
+   echo
 
 jobs:
+   echo
+deploy:
+   echo
